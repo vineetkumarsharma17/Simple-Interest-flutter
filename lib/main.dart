@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('hello'),
+        title: Text('Simple Interest Calculator'),
       ),
       body: Center(
         child: Container(
